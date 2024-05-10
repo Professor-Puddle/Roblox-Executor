@@ -15,6 +15,4 @@ I will try to find a fix for it soon. Please view the below example if you didn'
 ---------------------------------------------------------------------------------------------------------------------------------<br>
 Eg: "C:/users/user/Documents/MyExploits/PPRE"  <--- No spaces in the directory. Bootstrapper Will Work.<br>
 Eg: "C:/users/user/Documents/My Exploits/PPRE" <--- There is a space in the directory. Some settings won't work.<br>
----------------------------------------------------------------------------------------------------------------------------------<br><br>
-[Click to download the bootstrapper](https://cdn.discordapp.com/attachments/884102171136753714/927615699990483044/PPRE_Bootstrapper.exe)<br>
-Have fun exploiting! :)
+---------------------------------------------------------------------------------------------------------------------------------<br>
